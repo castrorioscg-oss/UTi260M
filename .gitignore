@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.zip
+# capturas y datos generados
+UTi260M_*.png
+*.npz
+*.csv
+*.mp4
+desktop.ini
+.claude/
