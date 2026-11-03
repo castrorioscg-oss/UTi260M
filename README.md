@@ -54,3 +54,8 @@ Cierra cualquier otra app que esté usando la cámara antes de abrir el visor.
   contra un termómetro de contacto, ajusta `EPS_DEVICE` en `uti260m/processing.py`.
 - La calibración de shutter (el "clic" de la cámara) la hace la cámara automáticamente.
 - CSV: en español usa `;` y coma decimal (Excel en español); en inglés usa `,` y punto decimal.
+
+## Licencia
+Código abierto bajo licencia [MIT](LICENSE): puedes usarlo, modificarlo y distribuirlo libremente, también con fines comerciales, manteniendo el aviso de copyright.
+
+No es un software oficial de UNI-T; UNI-T y UTi260M son marcas de sus respectivos dueños.
